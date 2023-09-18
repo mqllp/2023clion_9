@@ -3,4 +3,4 @@ project(2023clion/9 C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(hello hello.c)
+add_executable(guess guess.c)
